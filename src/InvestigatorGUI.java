@@ -937,7 +937,7 @@ public class InvestigatorGUI extends JFrame {
 		mntmExit.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				int ret = JOptionPane.showConfirmDialog (null, "Nicht gespeicherter Fortschritt geht verloren. Das Programm wirklich beenden?", "Wirklich Beenden?", JOptionPane.YES_NO_OPTION);
+				int ret = JOptionPane.showConfirmDialog (null, "Unsaved content willl be lost. Really close FinanceInvestigator?", "Really close?", JOptionPane.YES_NO_OPTION);
 				if(ret==JOptionPane.NO_OPTION) {
 					return;
 				}
