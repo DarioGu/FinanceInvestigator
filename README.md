@@ -1,7 +1,7 @@
 # FinanceInvestigator
-The FinanceInvestigator Software is used to analyze and simulate company financials as well as calculating the value of companies based on the used simualation data. It offers the following functionality via graphical user interface:
+The FinanceInvestigator Software is used to analyze and simulate company financials as well as simualting the value of companies based on the used simualation data. It offers the following functionality via graphical user interface:
 - enter and analyze financial company data for several years in the past
-- create financial simulations regarding the company fair value based on flow to equity method (up to 5 future years including terminal value)
+- create financial simulations regarding a company fair value based on users simulation data using flow to equity method (up to 5 future years including terminal value)
 - save/load the data as/from json file
 
 Please Note: extensive economic knowledge needed for using the software properly
