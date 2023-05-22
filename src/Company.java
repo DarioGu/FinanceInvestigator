@@ -1,3 +1,7 @@
+/** @author Dario Guth
+	 *  @copyright Dario Guth, 20210801
+	 *  @version 0.9  
+	 */
 package investigator;
 
 import java.io.Serializable;
