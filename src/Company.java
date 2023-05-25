@@ -8,10 +8,6 @@ import java.io.Serializable;
 
 public class Company implements Serializable {
 
-	/** @author Dario Guth
-	 *  @copyright Dario Guth, 20210801
-	 *  @version 0.9  
-	 */
 
 	private static final long serialVersionUID = 4735825962111455705L;
 
